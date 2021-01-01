@@ -6,7 +6,7 @@
 name: Supercyp
 
 # Short bio or description (displayed in the header)
-description: My blog
+description: My little blog 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/30377970?s=460&u=d3f7f5749b9455964855642022e5e3bbb07e5441&v=4
@@ -25,8 +25,8 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: rss
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
